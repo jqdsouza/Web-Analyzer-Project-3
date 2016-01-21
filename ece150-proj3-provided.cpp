@@ -4,6 +4,7 @@
 /**
  * URI served by the server.
  */
+ 
 struct uri {
     char *name;
     unsigned size, priority;
